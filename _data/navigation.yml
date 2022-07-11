@@ -11,7 +11,7 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page
-  - title: Example Collection
-    collection: example-collection
+  - title: Example Folder
+    collection: example-folder
   - title: Resources
     resource_room: true
