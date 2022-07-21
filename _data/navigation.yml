@@ -13,5 +13,3 @@ links:
     url: /example-page
   - title: Example Folder
     collection: example-folder
-  - title: Resources
-    resource_room: true
